@@ -1,6 +1,5 @@
 ## Hi , I'm Shatakshi 👋
 
----
 
 ### About me
 
