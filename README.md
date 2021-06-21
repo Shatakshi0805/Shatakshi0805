@@ -1,8 +1,8 @@
-### Hi , I'm Shatakshi 👋
+## Hi , I'm Shatakshi 👋
 
 ---
 
-## About me
+### About me
 
 - 👩‍🎓 I'm an Open Source enthusiast and I'm pursuing Bachelors of Technology in Computer Science
 
