@@ -1,4 +1,4 @@
-# Hi , I'm Shatakshi 👋
+# Hey, I'm [Shatakshi!](https://twitter.com/shatakshiigupta) 👋
 
 
 ## About me
