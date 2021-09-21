@@ -5,7 +5,7 @@
 
 - 👩‍🎓 I'm an Open Source enthusiast and I'm pursuing Bachelors of Technology in Computer Science
 
-- 🌱 I'm currently exploring DevOps, Data Science and Hackathons
+- 🌱 I'm currently learning full stack and exploring DevOps
 
 - 💻 I'm also working on enhancing my problem solving and DSA skills
 
