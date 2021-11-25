@@ -7,6 +7,6 @@
 
 - 🌱 I'm currently learning full stack and exploring DevOps
 
-- 💻 I'm also working on enhancing my problem solving and DSA skills
+- 💻 I'm also working on enhancing my problem solving skills
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
