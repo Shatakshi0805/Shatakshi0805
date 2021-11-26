@@ -34,13 +34,14 @@
 ## Read my latest blogs:
 [<img align = "left" width = "85px" src = "https://user-images.githubusercontent.com/78600829/143577650-c2378f78-3cfa-436d-964f-ba7f28477cbf.png"/>][devto]
 
+<br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
 
 
 ## Stats:
+
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shatakshi0805&show_icons=true&theme=tokyonight" />
