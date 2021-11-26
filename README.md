@@ -30,10 +30,12 @@
 
 <br/>
 <br/>
+<br/>
 
 ## Read my latest blogs:
-[<img align = "left" width = "45px" src = "https://user-images.githubusercontent.com/78600829/143565790-b382c9ad-b608-472d-a3a8-bbc400c0407e.png"/>][devto]
+[<img align = "left" width = "85px" src = "https://user-images.githubusercontent.com/78600829/143565790-b382c9ad-b608-472d-a3a8-bbc400c0407e.png"/>][devto]
 
+<br/>
 <br/>
 <br/>
 
