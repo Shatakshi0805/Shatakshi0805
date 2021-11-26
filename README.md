@@ -1,5 +1,6 @@
 # Hey, I'm [Shatakshi!](https://twitter.com/shatakshiigupta) 👋
 
+<br/>
 
 ## About me
 
@@ -11,6 +12,7 @@
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+<br/>
 
 ## Languages and Tools:
 <img  align = "left"  width = "45px" src = "https://user-images.githubusercontent.com/78600829/143561162-6f6d0ba8-dbea-42ce-ad95-45e2058ef7f8.png" />
@@ -26,6 +28,11 @@
 <img  align = "left"  width = "45px" src = "https://user-images.githubusercontent.com/78600829/143562755-a6aaef6a-a10c-4e6c-809d-0e4b22b20274.png"/>
 <img  align = "left"  width = "45px" src = "https://user-images.githubusercontent.com/78600829/143562776-ee590db5-fb31-41bd-99c3-f8f6a8533a8a.png"/>
 
+<br/>
+<br/>
+
+## Read my latest blogs:
+[<img align = "left" width = "45px" src = "https://user-images.githubusercontent.com/78600829/143565790-b382c9ad-b608-472d-a3a8-bbc400c0407e.png"/>][devto]
 
 <br/>
 <br/>
@@ -41,3 +48,4 @@
 [gmail]: https://shatakshi.gupta85@gmail.com
 [linkedin]: https://linkedin.com/in/shatakshi-gupta85
 [Twitter]: https://twitter.com/shatakshiigupta
+[devto]: https://dev.to/shatakshiigupta
