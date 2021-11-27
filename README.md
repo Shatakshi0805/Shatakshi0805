@@ -44,8 +44,7 @@
 
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shatakshi0805&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi0805&theme=tokyonight" />
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Shatakshi0805&show_icons=true&theme=tokyonight" />
 </p>
 
 ## Connect with me!
