@@ -39,10 +39,7 @@
 <br/>
 <br/>
 
-
-
 ## Stats:
-
 
 <p align="left">
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Shatakshi0805&show_icons=true&theme=tokyonight" />
