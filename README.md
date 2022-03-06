@@ -10,8 +10,6 @@
 
 - 💻 I'm also working on enhancing my problem solving skills
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
 <br/>
 
 ## Languages and Tools:
