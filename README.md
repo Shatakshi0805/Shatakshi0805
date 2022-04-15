@@ -6,7 +6,7 @@
 
 - 👩‍🎓 I'm an Open Source enthusiast and I'm pursuing Bachelors of Technology in Computer Science
 
-- 🌱 I'm currently learning full stack and exploring DevOps
+- 🌱 I'm currently learning Backend Development
 
 - 💻 I'm also working on enhancing my problem solving skills
 
